@@ -2990,3 +2990,7 @@ blockquote {
   }
 }
 
+.modal.big {
+  max-width: 700px;
+}
+
